@@ -1,0 +1,4 @@
+Step 1: streamlit run app.py
+Step 2: Enter login details  (admin, password123)
+Step 3: add customer details
+Step 4: You can see details in View Customers
